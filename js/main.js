@@ -3,6 +3,7 @@
 // 全站页面索引（用于搜索）
 const SITE_INDEX = [
   { title: "首页", url: "/index.html", desc: "黑龙江事业单位考试信息汇总" },
+  { title: "深度内容专区", url: "/deep-content.html", desc: "题型精讲、岗位拆解、备考规划、面试精讲" },
   { title: "公告汇总", url: "/notice/index.html", desc: "联考、哈尔滨、各地单招公告" },
   { title: "黑龙江事业单位联考公告汇总", url: "/notice/heilongjiang-union-exam.html", desc: "上下半年联考公告、历年数据" },
   { title: "哈尔滨事业单位单招公告汇总", url: "/notice/harbin.html", desc: "哈尔滨市及丁香人才周招聘公告" },
